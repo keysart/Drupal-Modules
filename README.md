@@ -1,4 +1,4 @@
 Drupal-Modules
 ==============
 
-Some simple Dupal module
+Some simple Dupal modules
